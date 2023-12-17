@@ -1,1 +1,1 @@
-Checkout the PDF [here]().
+Checkout the PDF [here](https://github.com/mehulofficial14/Inferential-Statistics/blob/main/The%20Organic%20Chemistry%20Tutor/Statistics/One%20Tailed%20and%20Two%20Tailed%20Tests%2C%20Critical%20Values%2C%20%26%20Significance%20Level%20-%20Inferential%20Statistics/One%20Tailed%20and%20Two%20Tailed%20Tests%2C%20Critical%20Values%2C%20%26%20Significance%20Level%20-%20Inferential%20Statistics.pdf).
