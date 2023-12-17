@@ -1,1 +1,1 @@
-Checkout the PDF [here]().
+Checkout the PDF [here](https://github.com/mehulofficial14/Inferential-Statistics/blob/main/The%20Organic%20Chemistry%20Tutor/Statistics/Descriptive%20Statistics%20vs%20Inferential%20Statistics/Descriptive%20Statistics%20vs%20Inferential%20Statistics.pdf).
