@@ -1,1 +1,1 @@
-Checkout the PDF [here]()
+Checkout the PDF [here](https://github.com/mehulofficial14/Inferential-Statistics/blob/main/The%20Organic%20Chemistry%20Tutor/Statistics/Hypothesis%20Testing%20-%20Null%20and%20Alternative%20Hypotheses/Hypothesis%20Testing%20-%20Null%20and%20Alternative%20Hypotheses.pdf)
